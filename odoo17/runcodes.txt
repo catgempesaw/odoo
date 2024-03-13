@@ -1,0 +1,15 @@
+source odoo17env/bin/activate
+python odoo-bin
+localhost:8069
+
+user:admin
+pass:admin
+
+
+create
+outgoing mail services
+    -test if working sa gmail
+
+gmaill app password for odoo: uxim ufvg vahn tmqx
+
+python odoo-bin -dmydatabase
